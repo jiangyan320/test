@@ -1,3 +1,5 @@
 this is new java code
-line2
 
+new line
+
+line2
